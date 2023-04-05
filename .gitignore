@@ -133,7 +133,7 @@ dmypy.json
 
 env/*
 pdf_text/*
-files/*
+*.pdf
 first_pages_append.txt
 last_pages_append.txt
 total_Common_keywords.txt
