@@ -8,3 +8,14 @@ It uses PdfReader to convert the pdf file to images and pytesseract to convert t
 Upon fetching the text, it take the unique words present in the first page and look whether the same keyword is present in other pages
 
 For generating keywords for multiple file we can create a "files" directory then run the files
+
+
+## make sure to download tesseract 
+```bash
+sudo apt install tesseract-ocr
+```
+In the pdf_to_image.py file you need to mention the location of tesseract file in the code
+for ubunutu we can use "which" command
+```
+which tesseract
+```
