@@ -1,0 +1,6 @@
+PdfReader
+pdfminer.six
+nltk
+pytesseract
+pillow
+pdf2image
