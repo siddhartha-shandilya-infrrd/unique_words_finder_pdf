@@ -127,3 +127,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# local changes
+
+env/*
+pdf_text/*
+files/*
+first_pages_append.txt
+last_pages_append.txt
+total_Common_keywords.txt
+total_keyworda.txt
+unique_keyword/*
+pdf_images/*
